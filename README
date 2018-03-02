@@ -1,3 +1,11 @@
+openroth/dosbox-0.74
+====================
+
+This fork of dosbox-0.74 adds a cmake-based buildsystem for openroth project (only tested under MSVC).
+
+ORIGINAL README
+===============
+
 DOSBox v0.74 Manual (always use the latest version from www.dosbox.com)
 
 

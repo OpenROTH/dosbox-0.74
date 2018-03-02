@@ -1,7 +1,7 @@
 #define VERSION "0.74"
 
 /* Define to 1 to enable internal debugger, requires libcurses */
-#define C_DEBUG 0
+#define C_DEBUG 1
 
 /* Define to 1 to enable screenshots, requires libpng */
 #define C_SSHOT 1
